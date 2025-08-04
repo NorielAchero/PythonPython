@@ -5,4 +5,4 @@ length = float(input("Enter the value of Length: "))
 
 area = width * length
 
-print(f"The area of the rectangle is {area}")
+print(f"The area of the rectangle is {area}cm²")
